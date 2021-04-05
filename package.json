@@ -1,0 +1,20 @@
+{
+  "name": "pruebaTecnicaFinal",
+  "version": "1.0.0",
+  "description": "Desarrollar un sistema que permita la simulación de la venta de artículos, la generación de un pequeño informe y el almacenamiento en base de datos, empleando Javascript, AJAX, HTML5, CSS3 (Se recomienda implementar ReactJS para el frontend y ExpresJS para el backend), objetos JSON y una base de datos SQL (MySQL O PostgreSQL).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhsantosp/ac_geek-final_back.git"
+  },
+  "keywords": [],
+  "author": "Maria Helena Santos Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhsantosp/ac_geek-final_back/issues"
+  },
+  "homepage": "https://github.com/mhsantosp/ac_geek-final_back#readme"
+}
